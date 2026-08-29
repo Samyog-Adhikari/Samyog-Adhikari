@@ -1,24 +1,295 @@
-# 💫 About Me:
-🔭 Currently working on: AI-powered applications, full-stack projects, and hackathon ideas.<br>🌱 Currently learning: Python, full-stack development, AI/ML, and core computer science.<br>🧠 Exploring: Artificial Intelligence, Machine Learning, hardware engineering, and emerging technologies.<br>🏆 Hackathons: Actively participating in hackathons and building projects that solve real-world problems.<br>💡 Looking for: Opportunities to collaborate, learn from others, and build interesting projects.<br>🚀 Goal: Keep learning, build better products, and turn ambitious ideas into reality.<br>
+<div align="center">
 
+# 👋 Hey, I'm Samyog
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samyog_adhikari) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SamyogAdh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samyog_adhikari_191) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamyogAdh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/samyog_adhikari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SamyogAdh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhikarisamyog.dev@gmail.com) 
+### `Computer Engineering Student` • `Builder` • `AI Enthusiast` • `Hackathoner`
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Samyog-Adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Samyog-Adhikari&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Samyog-Adhikari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products;Exploring+AI%2C+Software+%26+Hardware;Learning+something+new+every+day;Turning+problems+into+projects;Always+building.+Always+learning." alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Samyog-Adhikari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub](https://img.shields.io/badge/GitHub-Samyog--Adhikari-181717?style=for-the-badge\&logo=github)](https://github.com/Samyog-Adhikari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samyog_Adhikari-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/SamyogAdh)
+[![Instagram](https://img.shields.io/badge/Instagram-@samyog__adhikari__191-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/samyog_adhikari_191)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Samyog-Adhikari&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm **Samyog**, a Computer Engineering student passionate about **building software, exploring AI, experimenting with hardware, and turning ambitious ideas into real projects.**
+
+```yaml
+currently:
+  working_on:
+    - AI-powered applications
+    - Full-stack projects
+    - Hackathon projects
+    - Experimental ideas
+
+learning:
+  - Python
+  - Artificial Intelligence & Machine Learning
+  - Full-Stack Development
+  - Data Structures & Algorithms
+  - Core Computer Science
+
+exploring:
+  - Generative AI
+  - RAG & AI applications
+  - Hardware Engineering
+  - Emerging Technologies
+
+involved_in:
+  - Hackathons
+  - Open-source projects
+  - Building & experimenting
+
+looking_for:
+  - Collaboration
+  - Interesting projects
+  - New ideas
+  - Opportunities to learn & build
+
+goal:
+  "Keep learning. Keep building. Create things that matter."
+```
+
+---
+
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Currently Building
+
+* 🤖 AI-powered applications
+* 🌐 Full-stack web applications
+* 🧠 AI/ML experiments
+* 🏆 Hackathon projects
+* 💡 Experimental side projects
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Learning
+
+* 🐍 Python
+* 🧠 AI & Machine Learning
+* ⚡ Modern Full-Stack Development
+* 📚 DSA & Computer Science
+* 🔧 Hardware & Embedded Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,php,html,css,markdown" />
+</p>
+
+### ⚛️ Frontend & UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,redux,tailwind,bootstrap" />
+</p>
+
+**Also working with:** `shadcn/ui` • `React Native`
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+**Exploring:** `Generative AI` • `RAG` • `LLM Applications` • `AI Agents`
+
+### ☁️ Cloud, Backend & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,supabase,cloudflare,vercel,netlify" />
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,arduino,npm,apache,wordpress,notion" />
+</p>
+
+### 🎨 Design & Creative
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,premiere" />
+</p>
+
+`Canva` • `UI/UX Design` • `Graphic Design`
+
+---
+
+# 🧠 Areas I'm Exploring
+
+```text
+Artificial Intelligence     █████████████████░░░
+Machine Learning            ███████████████░░░░░
+Full-Stack Development      █████████████████░░░
+Software Engineering        ████████████████░░░░
+Hardware Engineering        ████████████░░░░░░░░
+Cybersecurity               ████████░░░░░░░░░░░░
+DSA & Problem Solving       ████████░░░░░░░░░░░░
+```
+
+> I enjoy going beyond tutorials — understanding how things work, breaking them apart, and trying to build better versions.
+
+---
+
+# 🏆 Hackathons & Building
+
+<div align="center">
+
+### 🧑‍💻 Build → Break → Learn → Improve → Repeat
+
+</div>
+
+I actively participate in **hackathons and technical competitions**, where I enjoy taking an idea from a blank screen to a working prototype under tight constraints.
+
+**Some things I enjoy building:**
+
+`AI Tools` `Web Apps` `Developer Tools` `Automation` `Hardware Projects` `Experimental Products`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Samyog-Adhikari&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samyog-Adhikari&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Samyog-Adhikari&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samyog-Adhikari&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samyog-Adhikari&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Samyog-Adhikari/Samyog-Adhikari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+### 🚀 Building things that solve real problems
+
+| Project                | Description                                     | Stack            |
+| ---------------------- | ----------------------------------------------- | ---------------- |
+| 🧠 **InnovateAI**      | AI-powered idea discovery & hackathon assistant | AI • RAG • React |
+| ♻️ **KabadMandu**      | Smart waste/recycling platform                  | React • Supabase |
+| 📝 **SumNotes**        | Smart note-taking / learning project            | Web • AI         |
+| ⚡ **More Coming Soon** | Always experimenting with new ideas             | 🧪               |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://discord.gg/samyog_adhikari">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/SamyogAdh">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/samyog_adhikari_191">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SamyogAdh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/SamyogAdh">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:adhikarisamyog.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<br/><br/>
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Samyog-Adhikari&style=for-the-badge&color=58A6FF" />
+
+<br/><br/>
+
+**"The best way to predict the future is to build it."**
+
+<br/>
+
+⭐ If you find something interesting here, consider giving it a star!
+
+</div>
